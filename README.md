@@ -139,7 +139,8 @@ If the test is successful, restart Nginx:
 
 sudo systemctl restart nginx
 
-Proxying with Apache
+## Proxying with Apache
+
 To serve the application using Apache:
 
 Build the project as described in the "Building for Production" section.
